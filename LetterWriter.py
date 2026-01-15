@@ -18,7 +18,6 @@ letterContents = '''Good Evening Mr. Donahoo,
      ''' + AnneArundel +  ''' taken at Anne Arundel Community College, ''' + reason + ''' Attached is a ''' + haveASyllabus +  '''substitution request form and a course description.  Thank you for your consideration!
 Best Regards,
 Nicholas Carnahan
-443-875-8559
 '''
 print(letterContents)
 print("Are you happy with the output?")
